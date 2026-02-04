@@ -17,6 +17,6 @@ HTML Virtual deck Get All Custom Canvas and Outputs from Aitum Suite with Websoc
 
 **Visual Themes:** Includes Dark (Default), Light (High Contrast), and Cyberpunk (Neon) modes.
 
-**Custom Image Scene Button Storage:** IndexedDB (for persistent image storage) & LocalStorage (for layout preferences).
+**Custom Image Scene Button :**  URL & LocalStorage.
 
-**Disable Text:**: Disable Scene Text.
+**Disable Text:**: Disable Scene Text Button.
