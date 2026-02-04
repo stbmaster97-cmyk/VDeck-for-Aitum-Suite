@@ -9,9 +9,6 @@ You can find the first version GRID on: https://obsproject.com/forum/resources/v
 Note: This was created for dual pc setup with a small touchscreen or external device Smartphone or tablet, for one pc Setup run your game in Windowed Borderless or Fullscreen Borderless.
 
 <img width="1628" height="613" alt="image" src="https://github.com/user-attachments/assets/c75ce889-1529-4822-b1ab-d65ef13e5d06" />
-<img width="1621" height="594" alt="image" src="https://github.com/user-attachments/assets/30f3dbbf-0d5d-4a21-abc8-f30747730d5e" />
-
-
 
 
 **Hybrid Control:** Manage Main OBS (Stream, Rec, Replay) and Aitum Suite scenes side-by-side in one unified interface.
