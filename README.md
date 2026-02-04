@@ -6,6 +6,7 @@ HTML Virtual deck Get All Custom Canvas and Outputs with Websocket.
 
 <img width="1626" height="597" alt="image" src="https://github.com/user-attachments/assets/c84292ca-f3fb-4856-a00b-c3a04ca5643f" />
 
+
 **Hybrid Control:** Manage Main OBS (Stream, Rec, Replay) and Aitum Suite scenes side-by-side in one unified interface.
 
 **Real-Time Sync:** "State-aware" buttons pulse Green (Ready) or Red (Live) instantly, reflecting your actual OBS status via WebSocket events.
