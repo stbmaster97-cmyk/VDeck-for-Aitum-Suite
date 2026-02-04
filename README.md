@@ -4,7 +4,8 @@ This has no relation to the Aitum team; it's an unofficial code.
 
 HTML Virtual deck Get All Custom Canvas and Outputs from Aitum Suite with Websocket.
 
-<img width="1626" height="597" alt="image" src="https://github.com/user-attachments/assets/c84292ca-f3fb-4856-a00b-c3a04ca5643f" />
+<img width="1628" height="613" alt="image" src="https://github.com/user-attachments/assets/c75ce889-1529-4822-b1ab-d65ef13e5d06" />
+
 
 
 **Hybrid Control:** Manage Main OBS (Stream, Rec, Replay) and Aitum Suite scenes side-by-side in one unified interface.
