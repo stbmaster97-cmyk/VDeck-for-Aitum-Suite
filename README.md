@@ -2,7 +2,7 @@
 
 This has no relation to the Aitum team; it's an unofficial code.
 
-HTML Virtual deck Get All Custom Canvas and Outputs with Websocket.
+HTML Virtual deck Get All Custom Canvas and Outputs from Aitum Suite with Websocket.
 
 <img width="1626" height="597" alt="image" src="https://github.com/user-attachments/assets/c84292ca-f3fb-4856-a00b-c3a04ca5643f" />
 
